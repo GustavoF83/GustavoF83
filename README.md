@@ -1,18 +1,36 @@
 ✨✨I'm Here!!!✨✨
-Aprendiz Web Developer
 
-⚡⚡⚡Contento por dar mis primeros pasos en el mundo web!⚡⚡⚡
+My name is Gustavo Franco
 
-- 📫 Tengo experiencia como Developer en otras tecnologías como Visual FoxPro y Algo de Java
-- 📫 Manejo de DB MySQL y SQL Server 
-- 🔭 Trabajo en Cooperativa Capiata Ltda.
-- 🌱 Aprendiendo :
-                    * HTML
-                    * CSS
-                    * JS
+⚡⚡⚡⚡⚡⚡
+
+- Currently working on desktop technologies
+- My desire to experience new tools made me enter web technology, an increasingly fascinating and constantly growing world!
+- 🏡I live in Capiata-Paraguay
+- ⏱I work in Cooperativa Capiata Ltda. 
+- 💻I Working with
+                            * Visual FoxPro 9
+                            * SQL Server
+
+- 📋I organize with         
+                            * Git and Github
+                            * Trello
+                            
+- 💡I have knowledge of
+                            * JAVA
+                            * MySql
+                            * and other tools...
+                     
+- 🔥Entering in the world of 
+                            * HTML
+                            * CSS
+                            * JS
+                            * Some Figma
+                            * and more!
 - ⚡ TWITTER : https://twitter.com/@francogon1983
+- 🔭 LINKEDIN : https://www.linkedin.com/in/gustavo-daniel-franco-gonzalez/
 
-El éxito del mañana depende de tu esfuerzo de hoy...
+Tomorrow's success depends on your efforts today...🙌
 <!--
 **GustavoF83/GustavoF83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
