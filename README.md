@@ -9,24 +9,29 @@ My name is Gustavo Franco
 - 🏡I live in Capiata-Paraguay
 - ⏱I work in Cooperativa Capiata Ltda. 
 - 💻I Working with
+
                             * Visual FoxPro 9
                             * SQL Server
 
-- 📋I organize with         
+- 📋I organize with 
+        
                             * Git and Github
                             * Trello
                             
 - 💡I have knowledge of
+
                             * JAVA
                             * MySql
                             * and other tools...
                      
-- 🔥Entering in the world of 
+- 🔥Entering in the world of
+
                             * HTML
                             * CSS
                             * JS
                             * Some Figma
                             * and more!
+                            
 - ⚡ TWITTER : https://twitter.com/@francogon1983
 - 🔭 LINKEDIN : https://www.linkedin.com/in/gustavo-daniel-franco-gonzalez/
 
